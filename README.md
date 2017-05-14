@@ -3,7 +3,7 @@ Notepad desktop application. It has many themes Yellow,MacWin,Mint etc. Tested o
 
 <img src="https://github.com/Coder-ACJHP/NotPad/blob/master/src/Icons/screenshot.jpg">
 
-#How to use?
+<h2>How to use?</h2>
 Just Clone or download the project and open it in any IDE then export it with executable jar. Or download Executable jar from Code page. No need to install just double click and enjoy :)
 
 #Used Techologies:
